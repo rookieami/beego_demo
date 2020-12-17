@@ -1,0 +1,7 @@
+swagger: "2.0"
+info:
+  title: app API
+  description: app接口文档
+  version: 1.0.0
+basePath: mmkj
+paths: {}

@@ -1,0 +1,14 @@
+2020/12/17 10:38:51.330 [I] [app.go:215]  http server Running on http://:8080
+2020/12/17 10:41:41.324 [I] [app.go:215]  http server Running on http://:8080
+2020/12/17 10:44:18.842 [I] [app.go:215]  http server Running on http://:8080
+2020/12/17 10:49:03.596 [I] [app.go:215]  http server Running on http://:8080
+2020/12/17 10:49:41.846 [I] [app.go:215]  http server Running on http://:8080
+2020/12/17 11:03:42.523 [I] [app.go:215]  http server Running on http://:8080
+2020/12/17 11:10:58.616 [I] [app.go:215]  http server Running on http://:8080
+2020/12/17 11:11:21.727 [I] [app.go:215]  http server Running on http://:8080
+2020/12/17 11:11:21.728 [C] [app.go:232]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2020/12/17 11:12:35.816 [I] [app.go:215]  http server Running on http://:8080
+2020/12/17 11:12:44.403 [D] [router.go:925]  |            ::1|[42m 200 [0m|     3.0072ms|   match|[44m GET     [0m /     r:/
+2020/12/17 11:12:44.410 [D] [router.go:925]  |            ::1|[47m 304 [0m|     1.0015ms|   match|[44m GET     [0m /static/js/reload.min.js
+2020/12/17 11:12:51.419 [D] [router.go:925]  |            ::1|[42m 200 [0m|     1.0038ms|   match|[44m GET     [0m /swagger/
+2020/12/17 11:12:51.433 [D] [router.go:925]  |            ::1|[43m 404 [0m|     1.0031ms| nomatch|[44m GET     [0m /favicon.ico
